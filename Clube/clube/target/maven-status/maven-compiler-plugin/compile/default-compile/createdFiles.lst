@@ -1,0 +1,13 @@
+com\mycompany\controller\CategoriaController.class
+com\mycompany\view\MensalidadeView.class
+com\mycompany\view\CategoriaView.class
+com\mycompany\controller\MensalidadeController.class
+com\mycompany\controller\DependenteController.class
+com\mycompany\model\Dependente.class
+com\mycompany\controller\SocioController.class
+com\mycompany\model\Mensalidade.class
+com\mycompany\view\DependenteView.class
+com\mycompany\view\SocioView.class
+com\mycompany\clube\MainApp.class
+com\mycompany\model\Socio.class
+com\mycompany\model\Categoria.class
